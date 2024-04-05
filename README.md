@@ -8,9 +8,9 @@ This map can be opened and edited using the Trenchbroom level editor. See here f
 https://github.com/FujiAPI/Fuji/wiki/Creating-Custom-Maps
 
 # Structure
-- You can find your map files in `/Maps`.
+- You can find your map files in `/Maps`
 - See the map's dialog and localisation strings in `/Text`
-- You may replace the texture in `Textures/Postcards/LevelTemplate.png` with your own PNG file, then update `Levels.json` accordingly.
+- You may replace the texture in `Textures/Postcards/LevelTemplate.png` with your own PNG file, then update `Levels.json` accordingly
 
 When you are done making your map, and are ready to publish it, you can either delete this readme file, or edit it if desired.
 
